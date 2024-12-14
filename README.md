@@ -1,5 +1,5 @@
 # Web-Scraper
-The Book Scraper is a Python-based web scraper that extracts book data from the Books to Scrape website. Certainly! Here's an example README.md file for the Book Scraper project:
+The Book Scraper is a Python-based web scraper that extracts book data from the Books to Scrape website. C
 
 # Book Scraper Project
 
